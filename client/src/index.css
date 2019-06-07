@@ -1,0 +1,12 @@
+i {
+    padding-left: 3px;
+    cursor: pointer;
+}
+.centered {
+    padding: 150px;
+    text-align: center;
+}
+
+.m-top {
+    margin-top:20px;
+}
